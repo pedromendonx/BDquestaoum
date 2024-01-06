@@ -1,0 +1,18 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "10.225.0.4",
+            "port": 3306,
+            "driver": "MySQL",
+            "database": "20211164010033_aluno",
+            "username": "20211164010033",
+            "name": "conexao"
+        }
+    ]
+}
